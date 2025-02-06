@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{808454E2-45F1-1167-E9A3-10AA390E8DD6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MaterialCollection",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
